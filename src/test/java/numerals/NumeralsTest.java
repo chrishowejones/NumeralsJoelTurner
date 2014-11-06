@@ -1,3 +1,5 @@
+package numerals;
+
 import numerals.Numerals;
 import org.junit.Test;
 
